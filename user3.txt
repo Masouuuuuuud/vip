@@ -1,1 +1,2 @@
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ1c2VyMSIsCiAgImFkZCI6ICJvbi5taWNkbi5tbCIsCiAgInBvcnQiOiAyMDk2LAogICJpZCI6ICI1OTE3OGUwYy1jZWI5LTRhZmMtODc3MC1mZjMzZTM1ODQ5MTAiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiIiwKICAidGxzIjogInRscyIKfQ==
+vless://b01767b8-4624-4b14-de54-fa5328cc800b@on.micdn.ml:2082?type=grpc&security=tls&serviceName=snapp.ir&sni=on.micdn.ml#user-8
